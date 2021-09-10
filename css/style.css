@@ -1,0 +1,88 @@
+*{
+    /* cursor:not-allowed; */
+}
+body{
+    /* background: url(../images/layyah_campus.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    margin: 40px;
+}
+h1{
+    font-size: 5rem;
+    color: blue;
+}
+
+/* .form-control:hover{
+    color: salmon;
+    color: rgb(187, 233, 19); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+.container{
+    background-color: rgb(202, 243, 155, 0.3);
+    border: 10px solid teal;
+    border-radius: 0px 60px ;
+    width: 30%;
+    height: 150px;
+    /* margin: 40px; */
+    /* padding-left: 50px; */
+}
+/* p{
+    background-color: turquoise;
+    border-left: 10px solid rgb(25, 167, 152);
+    padding: 15px;
+    color: white;
+    /* margin-left: 40px; */
+/* }
+.outline, .text{
+    outline: 3px solid aqua;
+    outline-width: 10px;
+    outline-style: ridge; */
+     
+
+.text{
+    outline: 5px solid red;
+    outline-width: 2px;
+    outline-style: groove;
+    padding: 20px;
+}
+
+.outline{
+    margin-bottom: 20px;
+    padding: 20px;
+    outline: 5px solid red;
+    outline-width: 2px;
+    outline-style: groove;
+    /* cursor:pointer; */
+    
+}
+.header, ul, li, a{
+    font-family: MD Primer Bold,Rubik,Lato,Lucida Grande,Lucida Sans Unicode,Tahoma,Sans-Serif;
+    color: white;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 20px;
+    background-color: #262626;
+}
+li:hover{
+    background-color: #111;
+    height: 100%;
+}
+img{
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    transition: all 0.5s;
+}
+img:hover{
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
